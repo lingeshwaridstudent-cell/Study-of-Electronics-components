@@ -38,14 +38,9 @@ Integrated circuits (ICs) contain many electronic components fabricated on a sin
 
 Electronic components are available in different packages, such as through-hole and surface-mount devices (SMD). Each component has a specific symbol, number of terminals, polarity, and electrical value, which must be correctly identified before using it in a circuit.
 
-# OBSERVATION TABLE:
- 
-<img width="1443" height="121" alt="image" src="https://github.com/user-attachments/assets/4da90fe3-303e-4cb3-9841-c20de0b351b7" />
-
-
 # EXPECTED OUTPUT:
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b957997f-aea8-4a52-825e-6cf015ed7c39" />
 
- 
 # RESULT:
 Thus, the basic electronic components such as resistor, capacitor, diode, transistor, and inductor were studied and their functions and specifications were understood.
 
